@@ -66,6 +66,7 @@ main{
 }
 .home h1{
     font-size:8vh;
+    text-shadow: 0 -2px #5f535359;
 }
 .home .button{
     margin-top:5vh;
