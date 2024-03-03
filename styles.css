@@ -199,6 +199,9 @@ form{
     font-size:larger;
     
 }
+input,textarea{
+    border: 1px solid #ccc;
+}
 i{
     color:gray;
     margin-right:1vw;
